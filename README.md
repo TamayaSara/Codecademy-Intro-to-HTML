@@ -7,7 +7,6 @@
 <li>Any visible content should be placed within the opening and closing body tags.</li>
 <li>Headings and sub-headings, h1 to h6 tags, are used to provide titles for sections of content.
 p, span and div tags specify text or blocks.</li>
-<li>The em and strong tags are used to emphasize text.</li>
 <li>Line breaks are created with the br tag.</li>
 <li>Ordered lists ol are numbered and unordered lists ul are bulleted.</li>
 <li>Images img and videos video can be added by linking to an existing source.</li>
